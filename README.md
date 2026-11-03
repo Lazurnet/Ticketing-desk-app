@@ -1,6 +1,5 @@
 # Projet
-
-
+Application interne de gestion des prestations et activités des prestataires.
 
 
 ## Stack
@@ -12,6 +11,7 @@
 - Bootstrap
 - PostgreSQL
 - GCP
+  
 ## Fonctionnalités V1
 - Gestion des prestataires
 - Gestion des prestations
